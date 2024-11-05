@@ -1,4 +1,4 @@
-let para  =document.getElementById("para");
+let para  =document.getElementById("timer");
 function date(){
 
     let d = new Date();
